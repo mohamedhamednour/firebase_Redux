@@ -1,0 +1,55 @@
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid rgb(206, 212, 206);
+  padding: 30px;
+  color: rgb(68, 0, 255);
+}
+.center button{
+  width: 100%;
+}
+.center h5 , Link{
+  color: rgb(4, 10, 58) !important;
+}
+
+.navbar-nav{
+  text-align: right;
+}
+
+.dashhord{
+  height: 900px;
+  border: 2px solid rgb(13, 211, 194);
+  margin-top: -15px;
+}
+.navbar{
+  border: 2px solid rgb(18, 199, 184);
+  color: bisque !important;
+
+}
+img{
+  width: 100%;
+}
+#dark{
+  display: none;
+}
+.imgss{
+  padding: 20px 20px;
+  border: 1px solid burlywood;
+  
+}
+ul{
+  list-style: none;
+  text-decoration: none;
+
+}
+.link ,.navbar-brand,.nav-link{
+  text-decoration: none;
+  color: rgb(18, 199, 184) !important;
+  font-size: 20px;
+}
+h5{
+  color: rgb(128, 167, 167) !important;
+}
+.container-fluid{
+  color: aliceblue;
+}
